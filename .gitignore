@@ -1,0 +1,8 @@
+# 构建产物与打包中间态
+build/
+dist/
+
+# 系统垃圾
+.DS_Store
+*.dSYM
+*.swift.bak.part
