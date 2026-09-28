@@ -1,3 +1,9 @@
+> **This repository has been merged into [`batch-print-tool`](https://github.com/yuanyuanzhang0815/batch-print-tool) and is now archived (read-only).**
+> Development, issues, and releases live in the merged repository — the v1.3 release is also there.
+>
+> **本仓库已并入 [`batch-print-tool`](https://github.com/yuanyuanzhang0815/batch-print-tool) 并归档（只读）。**
+> 后续开发、Issue 和 Release 都在合并后的仓库里，v1.3 的安装包也已放过去。
+
 # BatchPrint · 批量打印工具
 
 A small native macOS app for printing a batch of files under one set of rules.
